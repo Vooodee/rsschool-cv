@@ -1,113 +1,52 @@
-# Welcom my profile
+# Dmitry Zevakov
+----------------
+### Contact information
+- tel: **+375445141014**
+- e-mail: **dmitryzev@gmail.com**
+- Discord: **ZDmitry(@dzevakov)**
 
-[Last name] => '*Mironov*' |  [First name] =>'*Egor*' | [Patronymic]=> '*Vitalievich*'
------------- | ------------- | -------------
-![Photo for my profile](https://github.com/Vooodee/rsschool-cv/blob/gh-pages/my-last-photo.png?raw=true) | |
-Sochial links: | ✉ **VK** -> | [Write me a hot hi](https://vk.com/i_ac.dc_i)
-Sochial links: | 🔎 **Instagram** ->| [It's me](https://www.instagram.com/rock_n_roll_la/)
-Sochial links:| ☎ **Discord(RS-school)** ->| Egor Mironov (@Vooodee)
-My contact information:| **mail** ->| [wooodee@mail.ru](mailto:wooodee@mail.ru)
-My contact information:|  **Phone** ->|  [+375(25) 948-80-19](tel:375259488019)
----
->
-> *In theory, theory and practice are inseparable. In practice, this is not the case.*
->
-> Yoggi Berra
-> 
----
-1. ### My skills
-   - Base `HTML`
-   - Base `CSS` (+ `LESS`) 
-   - Base functions `PHP`
-   - I used *`Query` and `JS` sometimes
-    #### Other skills
-2. #### Experience with the next CMS
-   - Wordpress ( + *Woocommerce* )
-   - CS-Cart
-   - Wix (~~do not judge strictly~~)  
-4. #### Evaluation and **optimization** of the **download speed** according to the requirements of the *GooglePageSpeed* service
-5. #### Experience working with different **hosting services** (*cPanel*, *domains*, etc.)
-6. *I have 2 years of web development experience.*
----
-##### CODE: Will give an example of the code for the *Markdown* markup:
--- Don't know who selected this task and i thanks to you
+### About myself
+My aim is to become a specialist in **Front-End Development**
 
-```
-# The first century spans from the year 1 up to and including the year 100, 
-# The second - from the year 101 up to and including the year 200, etc.
-# Task:
-# Given a year, return the century it is in.
+##### Hardskills
+- JavaScript
+- HTML
+- CSS
+- Git
 
-function century(year) {
-   return (year%100 >= 1)? Math.ceil(year/100): Math.trunc(year/100); 
-}
-```
----
-##### _The code task is taken from **Codewars**.This task is cool_
-*[more code:](https://www.codewars.com/users/Vooodee/completed)*
+##### Softskills
+1. purposefulness
+2. curiosity
+3. ability to quickly learn new things
+4. ability to perceive a large amount of information
+5. ability to independently plan my working hours and follow this plan
 
-```
-while ($ic < $countM) {
-
-    $categotia = get_terms(array(
-        'taxonomy' => 'product_cat',
-        'hide_empty' => true,
-        'pad_counts' => true,
-        'orderby' => 'menu_order',
-        'parent' => $mas__id_cat[$ic]
-   )); 
-   $mid_cat = get_term($mas__id_cat[$ic])->name;
-   foreach ($categotia as $cat) {
-
-    $identificator = $cat->term_id;
-    $full__name = 'Category description '. $mid_cat;
-    $full__name_two = 'For a subcategory: '. $cat->name;
-
-    $id_cat_id = 'ID_cat'.$identificator;
-
-    $customizer->add_setting($id_cat_id, 
-    array('default' => '')
-    );
-    
-    $customizer->add_control($id_cat_id, array(
-        'label' => $full__name,
-        'description' => $full__name_two,
-        'section' => 'settings_category',
-        'type' => 'textarea',
-    )
-    );
-
-}
-$ic++;
-}
+### Example of code
+```javascript
+const bubbleSort = (input) => {
+  let tempNumber;
+  for (let i = 0; i < input.length - 1; i++) {
+    for (let j = 0; j < input.length - 1 - i; j++) {
+      if (input [j] - input [j + 1] > 0) {
+        tempNumber = input [j + 1];
+        input [j + 1] = input [j];
+        input [j] = tempNumber;
+      }
+    }
+  }
+  return input;
+};
 ```
 
-##### _The code from my project is also for **example**_
+### Work experience
 
+### Education / training courses
+1. Basic Javascript on Hexlet.io (free part)
+2. Video lessons **Javascript** by *Petrichenko*
+3. [JavaScript on code-basics.com](https://ru.code-basics.com/languages/javascript)
+4. [JavaScript on learn.javascript.ru](https://learn.javascript.ru/)
+5. [JavaScript on developer.mozilla.org](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 
-##### RS-SCHOOL SKILS AND ENGLISH: 
-
-##### I don't have much English but I'm working on it. (06.03.21)
-
-###### When i ending this kurs, i will have next skills:
-1. Experience basic language text markup  Markdown
-2. Experience works in  system controls version git
-3. And more `<!-- this list will be more-->` 
-
-
----
-## Other contacts: 
-`---` [wooodee@mail.ru](mailto:wooodee@mail.ru)
-### Sochial links: 
-`---` [Write me a hot hi](https://vk.com/i_ac.dc_i)
-### My contact information: 
-`---` [+375(25) 948-80-19](tel:375259488019)
-
----
-> ## Let me introduce myself
->My full name () {
->   [Last name] => '*Mironov*'
->   [First name] =>'*Egor*'
->   [Patronymic]=> '*Vitalievich*'
->}
----
+### English language
+Proficiency level - **A2**
+School of Foreign Languages - Streamline
