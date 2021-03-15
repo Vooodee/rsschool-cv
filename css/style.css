@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16pt;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+a {
+  color: #797979;
+}
+code {
+  background: #f1f1f1;
+}
+
+.container{
+  width:100%;
+
+}
+
+.main-block {
+  display: flex;
+  width: 100%;
+}
+
+.side-panel {
+  width: 33%;
+  color: #f2f2f2;
+  background: #2f353b;
+  padding: 10px;
+}
+
+.my-photo-profile {
+  display: block;
+  margin: 20px auto;
+  width: 60%;
+  border-radius: 2px;
+  box-shadow: 12px 7px 10px 0 rgb(0,0,0,0.2);
+}
+
+.aside-section {
+  margin-bottom: 15%;
+}
+
+.aside-header {
+  margin-left: 15%;
+  padding-bottom: 5%;
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.side-panel li {
+  list-style-type: none;
+  list-style-position: inside;
+  margin-top: 5%;
+  margin-bottom: 3%;
+  margin-left: 15%;
+}
+
+.contact-icon {
+  margin-right: 5%;
+}
+
+.hard-skills li {
+  list-style-type: none;
+}
+
+.meter {
+  width: 50%;
+  height: 10px;
+  margin-top: 3%;
+  background-color: #a0a0a0;
+}
+
+.meter span {
+  display: block;
+  width: 50%;
+  height: 100%;
+  background-color: #f2f2f2;
+
+}
+
+.main-content {
+  width: 67%;
+  color: #464646;
+  background-color: #fff;
+  box-shadow: 12px 7px 10px 0 rgb(0,0,0,0.2);
+}
+
+header {
+  margin: 1% 4%;
+}
+
+.main-section {
+  margin: 1% 4%;
+}
+
+.main-header {
+  padding-bottom: 3%;
+  border-bottom: 1px solid;
+  margin-bottom: 3%;
+}
+
+.icon {
+  margin-right: 5%;
+  font-size: 1.5em;
+}
+
+.main-block li {
+  list-style-position: inside;
+  margin: 2%;
+  margin-left: 15%;
+}
+
+.main-list li {
+  list-style-type: none;
+}
+
+.code-example {
+  display: block;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer {
+  border-top: 0px solid #ededed;
+  padding: 3px 15px;
+  background: #68217a;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.rss-logo {
+  display: block;
+  width: 66px;
+  height: 25px;
+  background: url(../img/rs_school_js.svg) center no-repeat;
+  background-size: contain;
+}
+
+.my-github-link {
+  text-decoration: none;
+  margin: 0 15px;
+}
+.my-github-link h4, .year{
+  font-size: 13px;
+    color: #000;
+    font-weight: bold;
+}
+.my-github-link:visited {
+  color: #fff;  
+}
