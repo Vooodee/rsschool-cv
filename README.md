@@ -7,6 +7,7 @@
 [Ссылка на задание wildlife - сайт одностраничник](https://rolling-scopes-school.github.io/vooodee-JSFE2021Q1/wildlife/) | ✓ 
 [Виртуальное пианино](https://rolling-scopes-school.github.io/vooodee-JSFE2021Q1/virtual-piano/) | ✓ 
 [Codewars](https://www.codewars.com/users/Vooodee/stats) | ✓ 
+[HTML макет](https://vooodee.github.io/html_test/public_html/) | ✓ 
 
   Useful sources |
 --- |
