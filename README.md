@@ -8,7 +8,8 @@
 [Виртуальное пианино](https://rolling-scopes-school.github.io/vooodee-JSFE2021Q1/virtual-piano/) | ✓ 
 [Codewars](https://www.codewars.com/users/Vooodee/stats) | ✓ 
 [HTML макет](https://vooodee.github.io/html_test/public_html/) | ✓ 
-
+[JS easy course -- part-1|GitHub](https://vooodee.github.io/js-coure-easy/app.html) | ✓ 
+[JS easy course -- part-1|JSFiddle](https://jsfiddle.net/wooodee/usnc6tyb/3/) | ✓ 
   Useful sources |
 --- |
 [Шпаргалка по Markdown](http://bustep.ru/markdown/shpargalka-po-markdown.html) | ✓ 
