@@ -10,6 +10,7 @@
 [HTML макет](https://vooodee.github.io/html_test/public_html/) | ✓ 
 [JS easy course -- part-1 (GitHub)](https://vooodee.github.io/js-coure-easy/app.html) | ✓ 
 [JS easy course -- part-1 (JSFiddle)](https://jsfiddle.net/wooodee/usnc6tyb/3/) | ✓ 
+
   Useful sources |
 --- |
 [Шпаргалка по Markdown](http://bustep.ru/markdown/shpargalka-po-markdown.html) | ✓ 
