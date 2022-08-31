@@ -12,7 +12,8 @@
 [JS easy course -- part-1 (JSFiddle)](https://jsfiddle.net/wooodee/usnc6tyb/3/) | ✓ 
 [JS easy course -- part-2 (GitHub)](https://vooodee.github.io/js-coure-easy/02/app.html) | ✓ 
 [JS easy course -- part-2 (JSFiddle)](https://jsfiddle.net/wooodee/ogaxh064/1/) | ✓ 
-
+[JS easy course -- part-3 (GitHub)](https://vooodee.github.io/js-coure-easy/03/app.html) | ✓ 
+[JS easy course -- part-3 (JSFiddle)](https://jsfiddle.net/wooodee/0wf9qkub/) | ✓ 
   Useful sources |
 --- |
 [Шпаргалка по Markdown](http://bustep.ru/markdown/shpargalka-po-markdown.html) | ✓ 
